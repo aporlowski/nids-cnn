@@ -1,5 +1,5 @@
 # nids-cnn
-NIDS using CNN
+Network Intrusion Detection System (NIDS) using CNN
 
 **References:**
 
